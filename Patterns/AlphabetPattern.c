@@ -1,16 +1,16 @@
 #include<stdio.h>
 int main() {
-	int i, j;
-	char input, alphabet = 'A';
+	int i, j, rows;
+	char alphabet = 'A';
 	
-	printf("Enter a character: ");
-	scanf("%c", &input);
+	printf("Enter no. of rows: ");
+	scanf("%d", &rows);
 	
-	for (i = 1; i <= (input - 'A' + 1); i++)
+	for (i = 1; i <= rows; i++)
 	{
 		for (j = 1; j <= i; j++)
 		{
-			printf("%c ", &alphabet);
+			printf("%c ", alphabet);
 		}
 		alphabet++;
 		printf("\n");
