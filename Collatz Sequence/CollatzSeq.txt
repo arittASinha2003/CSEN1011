@@ -1,0 +1,6 @@
+/* ALGORITHM
+1. Start
+2. Enter any positive integer n
+3. If n term is even, the next term is: n / 2 
+4. If n is odd, the next term is: 3 * n + 1
+5. Stop */
