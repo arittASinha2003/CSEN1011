@@ -1,0 +1,6 @@
+/* Algorithm
+1. Start
+2. Get nth term of fibo series from user
+3. Get fibonacci series but with each loop, add value to a variable
+4. Print value in variable
+5. Stop */
