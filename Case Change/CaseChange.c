@@ -20,3 +20,15 @@ int main() {
 	
 	return 0;
 }
+
+/* Output
+Enter a character : a
+Changed case of a is A
+~/CSEN1011-3/Module-01 Programs$ ./a.out
+Enter a character : A
+Changed case of A is a
+
+Learnings
+01. ASCII characterset.
+02. Logical operator && (and)
+*/
