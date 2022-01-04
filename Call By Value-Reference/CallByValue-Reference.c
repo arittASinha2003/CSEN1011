@@ -45,7 +45,7 @@ After Swapping ...
  a = 15, b = 5
 After Calling swap_ref Function ...
  a = 5, b = 15
- ~/CSEN1011-3/Module-01 Programs$ ./a.out
+ ~/CSEN1011/Module-03 Programs$ ./a.out
  
  Enter the value of a: 10
 Enter the value of b: 20
@@ -57,4 +57,4 @@ After Swapping ...
  a = 10, b = 20
 After Calling swap_ref Function ...
  a = 20, b = 10
- ~/CSEN1011-3/Module-01 Programs$ ./a.out
+ ~/CSEN1011/Module-03 Programs$ ./a.out
