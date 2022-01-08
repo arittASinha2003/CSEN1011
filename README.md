@@ -4,7 +4,7 @@
 This repo contains all programs for the course.
 
 
-## 🔗 01. RAPTOR FILES
+## 🔗 1. RAPTOR FILES
 [Addition.rap](https://github.com/arittASinha2003/CSEN1011/blob/main/Addition/Addition.rap)  
 [Calculator.rap](https://github.com/arittASinha2003/CSEN1011/blob/main/Calculator/Calculator.rap)  
 [Case Change.rap](https://github.com/arittASinha2003/CSEN1011/blob/main/Case%20Change/CaseChange.rap)  
@@ -17,5 +17,5 @@ This repo contains all programs for the course.
 [Simple Interest.rap](https://github.com/arittASinha2003/CSEN1011/blob/main/Simple%20Interest/SimpleInterest.rap)  
 [Temperature Converter.rap](https://github.com/arittASinha2003/CSEN1011/blob/main/Temperature%20Converter/CelsiusFahrenheit.rap)  
 
-## 🔗 02. MODULE - 1
+## 🔗 2. MODULE - 1
 [Addition.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Addition/Addition.c)
