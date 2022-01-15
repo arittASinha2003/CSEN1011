@@ -19,3 +19,7 @@ This repo contains all programs for the course.
 
 ## 🔗 MODULE - 1
 [Addition.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Addition/Addition.c)
+[ArmstrongNumber.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Armstrong%20Number/ArmstrongNumber.c)
+
+## 🔗 MODULE - 2
+[Calculator.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Calculator/Calculator.c)
