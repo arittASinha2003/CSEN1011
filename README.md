@@ -21,14 +21,25 @@ This repo contains all programs for the course.
 [Addition.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Addition/Addition.c)  
 [ArmstrongNumber.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Armstrong%20Number/ArmstrongNumber.c)  
 [CaseChange.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Case%20Change/CaseChange.c)  
-[Even-Odd.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Even%20or%20Odd/Even%20or%20Odd.c)
+[Even-Odd.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Even%20or%20Odd/Even%20or%20Odd.c)  
+[Marks.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Marks/Marks.c)
 
 ## 🔗 MODULE - 2
-[Calculator.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Calculator/Calculator.c)
+[Calculator.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Calculator/Calculator.c)  
+[Fibonacci.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Fibonacci%20Sequence/Fibonacci.c)  
+[FloydsTriangle.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Floyd's%20Triangle/FloydsTriangle.c)  
+[PascalsTriangle.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Pascal's%20Triangle/PascalsTriangle.c)  
+[AlphabetPattern.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Patterns/AlphabetPattern.c)  
+[AlphabetPattern1.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Patterns/AlphabetPattern1.c)  
+[NumberFullPyramid.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Patterns/NumberFullPyramid.c)  
+[NumberPattern.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Patterns/NumberPattern.c)  
+[StarInvertedFullPyramid.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Patterns/StarInvertedFullPyramid.c)  
+[StarPattern.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Patterns/StarPattern.c)  
 
 ## 🔗 MODULE - 3
 [Call-by-value-reference.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Call%20By%20Value-Reference/CallByValue-Reference.c)
 
 ## 🔗 SUMMATIVE ACCESSMENT - 1
 [CollatzSeq.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Collatz%20Sequence/CollatzSeq.c)  
-[Factorial.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Factorial/Factorial.c)
+[Factorial.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Factorial/Factorial.c)  
+[Fibonacci-nth.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Fibonacci%20Sequence/Fibonacci-nth.c)
