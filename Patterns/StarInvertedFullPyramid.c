@@ -15,3 +15,12 @@ int main() {
    }
    return 0;
 }
+
+/* OUtput:
+Enter no. of rows: 5
+* * * * * * * * * 
+  * * * * * * * 
+    * * * * * 
+      * * * 
+        *
+*/
