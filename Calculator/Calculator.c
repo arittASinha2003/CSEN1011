@@ -17,6 +17,7 @@ int main() {
   printf("Enter 2nd number: ");
   scanf("%d", &b);
   
+  //scanf("%d %d %c", &a, &b, &op);
   //printf("Enter two numbers: ");
   //scanf("%d %d", &a, &b);
 
