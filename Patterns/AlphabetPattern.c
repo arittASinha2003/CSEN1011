@@ -17,3 +17,12 @@ int main() {
 	}
 	return 0;
 }
+
+/* Output:
+Enter no. of rows: 5
+A 
+B B 
+C C C 
+D D D D 
+E E E E E
+*/
