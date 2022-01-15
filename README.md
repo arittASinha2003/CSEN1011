@@ -23,3 +23,6 @@ This repo contains all programs for the course.
 
 ## 🔗 MODULE - 2
 [Calculator.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Calculator/Calculator.c)
+
+## 🔗 MODULE - 3
+[Call-by-value-reference.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Call%20By%20Value-Reference/CallByValue-Reference.c)
