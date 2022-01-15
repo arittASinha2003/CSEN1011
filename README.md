@@ -19,10 +19,14 @@ This repo contains all programs for the course.
 
 ## 🔗 MODULE - 1
 [Addition.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Addition/Addition.c)  
-[ArmstrongNumber.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Armstrong%20Number/ArmstrongNumber.c)
+[ArmstrongNumber.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Armstrong%20Number/ArmstrongNumber.c)  
+[CaseChange.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Case%20Change/CaseChange.c)
 
 ## 🔗 MODULE - 2
 [Calculator.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Calculator/Calculator.c)
 
 ## 🔗 MODULE - 3
 [Call-by-value-reference.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Call%20By%20Value-Reference/CallByValue-Reference.c)
+
+## 🔗 SUMMATIVE ACCESSMENT - 1
+[CollatzSeq.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Collatz%20Sequence/CollatzSeq.c)
