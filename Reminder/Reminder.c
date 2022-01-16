@@ -1,3 +1,10 @@
+/* Algorithm:
+
+1. Start
+2. Accept two numbers num and div.
+3. Reminder can be calculated as num - div (num/div)
+4. Stop */
+
 #include<stdio.h>
 int main() {
     int num, div;
@@ -12,3 +19,13 @@ int main() {
     
     return 0;
 }
+
+/* Output:
+Enter an integer: 26
+Enter divisor: 9
+Reminder = 8
+
+Enter an integer: 25
+Enter divisor: 5
+Reminder = 0
+*/
