@@ -1,3 +1,5 @@
+// Perfect number is a positive integer that is equal to the sum of its positive divisors, excluding the number itself.
+
 #include<stdio.h>
 int main() {
 	int num, sum = 0, i = 1;
@@ -14,10 +16,20 @@ int main() {
 		i++;
 	}
 	if (sum == num)
-	printf("It is a Perfect Number");
+	printf("%d is a Perfect Number", num);
 	
 	else
-	printf("It is not a Perfect Number");
+	printf("%d is not a Perfect Number", num);
 	
 	return 0;
 }
+
+/* Output:
+Enter a number: 496
+496 is a Perfect Number
+
+Enter a number: 5
+5 is not a Perfect Number
+
+Enter a number: 6
+6 is a Perfect Number */
