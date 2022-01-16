@@ -48,12 +48,12 @@ This repo contains all programs for the course.
 ## 🔗 MODULE - 3
 [Call-by-Value-Reference.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Call%20By%20Value-Reference/CallByValue-Reference.c)
 
-## 🔗 SUMMATIVE ASSESSMENT - 1
-[CollatzSeq.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Collatz%20Sequence/CollatzSeq.c)  
-[Factorial.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Factorial/Factorial.c)  
-[Fibonacci-nth.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Fibonacci%20Sequence/Fibonacci-nth.c)
-
 ## 🔗 GRADED ASSESSMENT - 8
 [ElementSearchArray.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Graded%20Assessment%20-%208/ElementSearchArray.c)  
 [MaxMinArray.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Graded%20Assessment%20-%208/MaxMinArray.c)  
 [SortedArray.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Graded%20Assessment%20-%208/SortedArray.c)
+
+## 🔗 SUMMATIVE ASSESSMENT - 1
+[CollatzSeq.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Collatz%20Sequence/CollatzSeq.c)  
+[Factorial.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Factorial/Factorial.c)  
+[Fibonacci-nth.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Fibonacci%20Sequence/Fibonacci-nth.c)
