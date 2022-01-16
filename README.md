@@ -28,7 +28,7 @@ This repo contains all programs for the course.
 [NetSalary.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Salary/NetSalary.c)  
 [SimpleCompoundInterest.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Simple%20Compound%20Interest/SICI.c)  
 [Swapping.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Swapping/Swapping.c)  
-[TempConverter.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Temperature%20Converter/TempCalculator.c)
+[TempConverter.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Temperature%20Converter/TempConverter.c)
 
 ## 🔗 MODULE - 2
 [Calculator.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Calculator/Calculator.c)  
