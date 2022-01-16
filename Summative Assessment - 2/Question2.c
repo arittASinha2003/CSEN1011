@@ -58,7 +58,7 @@ int main()
     {
         if (q < m[n])
         q = m[n];
-        if (r < m[n])
+        if (r > m[n])
         r = m[n];
     n += 1;
     }
