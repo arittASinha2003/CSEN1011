@@ -1,3 +1,9 @@
+/* Algorithm:
+1. Start
+2. Accept two numbers a and b
+3. Using a = a + b, b = a - b and a = a - b, swap the numbers
+4. Stop */
+
 #include<stdio.h>
 int main()
 {
