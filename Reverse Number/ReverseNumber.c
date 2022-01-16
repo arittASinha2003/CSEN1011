@@ -14,3 +14,11 @@ int main() {
 	printf("Reversed Number: %d", rev);
 	return 0;
 }
+
+/* Output:
+Enter a number: 524
+Reversed Number: 425
+
+Enter a number: 100
+Reversed Number: 1
+*/
