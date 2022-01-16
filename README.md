@@ -26,7 +26,9 @@ This repo contains all programs for the course.
 [PrimeComposite.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Prime%20or%20Composite/PrimeComposite.c)  
 [Reminder.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Reminder/Reminder.c)  
 [NetSalary.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Salary/NetSalary.c)  
-[SimpleCompoundInterest.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Simple%20Compound%20Interest/SICI.c)
+[SimpleCompoundInterest.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Simple%20Compound%20Interest/SICI.c)  
+[Swapping.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Swapping/Swapping.c)  
+[TempConverter.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Temperature%20Converter/TempCalculator.c)
 
 ## 🔗 MODULE - 2
 [Calculator.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Calculator/Calculator.c)  
