@@ -57,3 +57,9 @@ This repo contains all programs for the course.
 [CollatzSeq.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Collatz%20Sequence/CollatzSeq.c)  
 [Factorial.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Factorial/Factorial.c)  
 [Fibonacci-nth.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Fibonacci%20Sequence/Fibonacci-nth.c)
+
+## 🔗 SUMMATIVE ASSESSMENT - 2
+[Question1.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Summative%20Assessment%20-%202/Question1.c)  
+[Question2.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Summative%20Assessment%20-%202/Question2.c)  
+[Question3.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Summative%20Assessment%20-%202/Question3.c)  
+[Question4.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Summative%20Assessment%20-%202/Question4.c)
