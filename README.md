@@ -45,7 +45,7 @@ This repo contains all programs for the course.
 [ReverseNumber.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Reverse%20Number/ReverseNumber.c)
 
 ## 🔗 MODULE - 3
-[Call-by-value-reference.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Call%20By%20Value-Reference/CallByValue-Reference.c)
+[Call-by-Value-Reference.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Call%20By%20Value-Reference/CallByValue-Reference.c)
 
 ## 🔗 SUMMATIVE ACCESSMENT - 1
 [CollatzSeq.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Collatz%20Sequence/CollatzSeq.c)  
