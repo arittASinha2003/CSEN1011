@@ -22,7 +22,11 @@ This repo contains all programs for the course.
 [ArmstrongNumber.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Armstrong%20Number/ArmstrongNumber.c)  
 [CaseChange.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Case%20Change/CaseChange.c)  
 [Even-Odd.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Even%20or%20Odd/Even%20or%20Odd.c)  
-[Marks.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Marks/Marks.c)
+[Marks.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Marks/Marks.c)  
+[PrimeComposite.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Prime%20or%20Composite/PrimeComposite.c)  
+[Reminder.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Reminder/Reminder.c)  
+[NetSalary.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Salary/NetSalary.c)  
+[SimpleCompoundInterest.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Simple%20Compound%20Interest/SICI.c)
 
 ## 🔗 MODULE - 2
 [Calculator.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Calculator/Calculator.c)  
@@ -35,6 +39,8 @@ This repo contains all programs for the course.
 [NumberPattern.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Patterns/NumberPattern.c)  
 [StarInvertedFullPyramid.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Patterns/StarInvertedFullPyramid.c)  
 [StarPattern.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Patterns/StarPattern.c)  
+[PerfectNumber.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Perfect%20Number/PerfectNumber.c)  
+[ReverseNumber.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Reverse%20Number/ReverseNumber.c)
 
 ## 🔗 MODULE - 3
 [Call-by-value-reference.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Call%20By%20Value-Reference/CallByValue-Reference.c)
@@ -43,3 +49,6 @@ This repo contains all programs for the course.
 [CollatzSeq.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Collatz%20Sequence/CollatzSeq.c)  
 [Factorial.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Factorial/Factorial.c)  
 [Fibonacci-nth.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Fibonacci%20Sequence/Fibonacci-nth.c)
+
+## 🔗 UNKNOWN
+[Power.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Power/Power.c)
