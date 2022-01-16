@@ -52,5 +52,10 @@ This repo contains all programs for the course.
 [Factorial.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Factorial/Factorial.c)  
 [Fibonacci-nth.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Fibonacci%20Sequence/Fibonacci-nth.c)
 
+## 🔗 GRADED ASSESSMENT - 8
+[ElementSearchArray.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Graded%20Assessment%20-%208/ElementSearchArray.c)  
+[MaxMinArray.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Graded%20Assessment%20-%208/MaxMinArray.c)  
+[SortedArray.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Graded%20Assessment%20-%208/SortedArray.c)
+
 ## 🔗 UNKNOWN
 [Power.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Power/Power.c)
