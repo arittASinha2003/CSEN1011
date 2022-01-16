@@ -26,6 +26,7 @@ This repo contains all programs for the course.
 [PrimeComposite.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Prime%20or%20Composite/PrimeComposite.c)  
 [Reminder.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Reminder/Reminder.c)  
 [NetSalary.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Salary/NetSalary.c)  
+[Power.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Power/Power.c)  
 [SimpleCompoundInterest.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Simple%20Compound%20Interest/SICI.c)  
 [Swapping.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Swapping/Swapping.c)  
 [TempConverter.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Temperature%20Converter/TempConverter.c)
@@ -56,6 +57,3 @@ This repo contains all programs for the course.
 [ElementSearchArray.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Graded%20Assessment%20-%208/ElementSearchArray.c)  
 [MaxMinArray.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Graded%20Assessment%20-%208/MaxMinArray.c)  
 [SortedArray.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Graded%20Assessment%20-%208/SortedArray.c)
-
-## 🔗 UNKNOWN
-[Power.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Power/Power.c)
