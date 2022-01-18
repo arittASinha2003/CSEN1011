@@ -43,7 +43,8 @@ This repo contains all programs for the course.
 [StarInvertedFullPyramid.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Patterns/StarInvertedFullPyramid.c)  
 [StarPattern.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Patterns/StarPattern.c)  
 [PerfectNumber.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Perfect%20Number/PerfectNumber.c)  
-[ReverseNumber.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Reverse%20Number/ReverseNumber.c)
+[ReverseNumber.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Reverse%20Number/ReverseNumber.c)  
+[Decimal-Binary.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Decimal%20to%20Binary/Decimal-Binary.c)
 
 ## 🔗 MODULE - 3
 [Call-by-Value-Reference.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Call%20By%20Value-Reference/CallByValue-Reference.c)
