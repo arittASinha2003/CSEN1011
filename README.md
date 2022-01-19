@@ -62,7 +62,7 @@ This repo contains all programs for the course.
 [Fibonacci-nth.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Fibonacci%20Sequence/Fibonacci-nth.c)
 
 ## 🔗 SUMMATIVE ASSESSMENT - 2
-[Question1.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Summative%20Assessment%20-%202/Question1.c)  
-[Question2.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Summative%20Assessment%20-%202/Question2.c)  
-[Question3.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Summative%20Assessment%20-%202/Question3.c)  
-[Question4.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Summative%20Assessment%20-%202/Question4.c)
+[CeilingNumber.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Summative%20Assessment%20-%202/1-CeilingNumber.c)  
+[StocksProfit.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Summative%20Assessment%20-%202/2-StocksProfit.c)  
+[DuplicateElement.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Summative%20Assessment%20-%202/3-DuplicateElement.c)  
+[BinaryToDecimal.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Summative%20Assessment%20-%202/4-BinaryToDecimal.c)
