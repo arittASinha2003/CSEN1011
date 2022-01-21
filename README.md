@@ -7,15 +7,15 @@ This repo contains all programs for the course.
 ## 🔗 RAPTOR FILES
 [Addition.rap](https://github.com/arittASinha2003/CSEN1011/blob/main/Addition/Addition.rap)  
 [Calculator.rap](https://github.com/arittASinha2003/CSEN1011/blob/main/Calculator/Calculator.rap)  
-[CaseChange.rap](https://github.com/arittASinha2003/CSEN1011/blob/main/Case%20Change/CaseChange.rap)  
-[CollatzSeq.rap](https://github.com/arittASinha2003/CSEN1011/blob/main/Collatz%20Sequence/CollatzSeq.rap)  
-[EvenOdd.rap](https://github.com/arittASinha2003/CSEN1011/blob/main/Even%20or%20Odd/Even%20or%20Odd.rap)  
+[Case-Change.rap](https://github.com/arittASinha2003/CSEN1011/blob/main/Case%20Change/CaseChange.rap)  
+[Collatz-Seq.rap](https://github.com/arittASinha2003/CSEN1011/blob/main/Collatz%20Sequence/CollatzSeq.rap)  
+[Even-Odd.rap](https://github.com/arittASinha2003/CSEN1011/blob/main/Even%20or%20Odd/Even%20or%20Odd.rap)  
 [Factorial.rap](https://github.com/arittASinha2003/CSEN1011/blob/main/Factorial/Factorial.rap)  
 [Fibonacci-Sum.rap](https://github.com/arittASinha2003/CSEN1011/blob/main/Fibonacci%20Sequence/Fibonacci-Sum.rap)  
 [Fibonacci-nth.rap](https://github.com/arittASinha2003/CSEN1011/blob/main/Fibonacci%20Sequence/Fibonacci-nth.rap)  
-[PrimeComposite.rap](https://github.com/arittASinha2003/CSEN1011/blob/main/Prime%20or%20Composite/PrimeNumber.rap)  
-[SimpleInterest.rap](https://github.com/arittASinha2003/CSEN1011/blob/main/Simple%20Interest/SimpleInterest.rap)  
-[TempConverter.rap](https://github.com/arittASinha2003/CSEN1011/blob/main/Temperature%20Converter/CelsiusFahrenheit.rap)  
+[Prime-Composite.rap](https://github.com/arittASinha2003/CSEN1011/blob/main/Prime%20or%20Composite/PrimeNumber.rap)  
+[Simple-Interest.rap](https://github.com/arittASinha2003/CSEN1011/blob/main/Simple%20Interest/SimpleInterest.rap)  
+[Temp-Converter.rap](https://github.com/arittASinha2003/CSEN1011/blob/main/Temperature%20Converter/CelsiusFahrenheit.rap)  
 [Factorial-Procedure.rap](https://github.com/arittASinha2003/CSEN1011/blob/main/Factorial/Factorial-Procedure.rap)
 
 ## 🔗 MODULE - 1
@@ -51,8 +51,8 @@ This repo contains all programs for the course.
 [Call-by-Value-Reference.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Call%20By%20Value-Reference/CallByValue-Reference.c)  
 [Prime-Armstrong-Perfect-Function.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Misc./Prime-Armstrong-Perfect-Function.c)  
 [GCD-LCM-Recursive.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Misc./GCD-LCM-Recursive.c)  
-[Series-Sum.c]
-[StorageClasses.c]
+[Series-Sum.c]  
+[StorageClasses.c]  
 [DynamicMemoryAllocations.c]
 
 ## 🔗 GRADED ASSESSMENT - 8
