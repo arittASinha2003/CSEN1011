@@ -55,6 +55,12 @@ This repo contains all programs for the course.
 [Series-Sum.c]  
 [Storage-Classes.c]
 
+## 🔗 MODULE - 4
+[Array-Example.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Arrays/ArrayExample.c)  
+[Linear-Search.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Arrays/LinearSearch.c)  
+[Min-Max-Element](https://github.com/arittASinha2003/CSEN1011/blob/main/Arrays/MinMaxElement.c)  
+[Bubble-Sort.c]
+
 ## 🔗 GRADED ASSESSMENT - 8
 [Element-Search-Array.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Graded%20Assessment%20-%208/ElementSearchArray.c)  
 [Max-Min-Array.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Graded%20Assessment%20-%208/MaxMinArray.c)  
