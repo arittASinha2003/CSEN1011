@@ -50,7 +50,10 @@ This repo contains all programs for the course.
 ## 🔗 MODULE - 3
 [Call-by-Value-Reference.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Call%20By%20Value-Reference/CallByValue-Reference.c)  
 [Prime-Armstrong-Perfect-Function.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Misc./Prime-Armstrong-Perfect-Function.c)  
-[GCD-LCM-Recursive.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Misc./GCD-LCM-Recursive.c)
+[GCD-LCM-Recursive.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Misc./GCD-LCM-Recursive.c)  
+[Series-Sum.c]
+[StorageClasses.c]
+[DynamicMemoryAllocations.c]
 
 ## 🔗 GRADED ASSESSMENT - 8
 [ElementSearchArray.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Graded%20Assessment%20-%208/ElementSearchArray.c)  
