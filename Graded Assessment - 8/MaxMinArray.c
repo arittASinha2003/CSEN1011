@@ -25,3 +25,12 @@ int main(void)
     
     printf("%d %d", max, min);
 }
+
+/* Output:
+13
+26
+39
+52
+65
+65 13
+*/
