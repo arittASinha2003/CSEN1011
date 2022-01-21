@@ -58,7 +58,7 @@ This repo contains all programs for the course.
 ## 🔗 MODULE - 4
 [Array-Example.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Arrays/ArrayExample.c)  
 [Linear-Search.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Arrays/LinearSearch.c)  
-[Min-Max-Element](https://github.com/arittASinha2003/CSEN1011/blob/main/Arrays/MinMaxElement.c)  
+[Min-Max-Element.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Arrays/MinMaxElement.c)  
 [Bubble-Sort.c]
 
 ## 🔗 GRADED ASSESSMENT - 8
