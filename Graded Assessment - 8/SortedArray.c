@@ -25,3 +25,11 @@ int main(void)
         printf("False");
     }
 }
+
+/* Output:
+5 10 15 20 25
+True
+
+12 13 24 7 43
+False
+*/
