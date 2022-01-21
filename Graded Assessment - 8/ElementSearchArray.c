@@ -21,3 +21,13 @@ int main(void)
     printf("Element not found");
     return 0;
 }
+
+/* Output:
+20 30 40 50 60
+55
+Element not found
+
+25 50 75 100 125
+100
+3
+*/
