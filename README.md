@@ -16,6 +16,7 @@ This repo contains all programs for the course.
 [PrimeComposite.rap](https://github.com/arittASinha2003/CSEN1011/blob/main/Prime%20or%20Composite/PrimeNumber.rap)  
 [SimpleInterest.rap](https://github.com/arittASinha2003/CSEN1011/blob/main/Simple%20Interest/SimpleInterest.rap)  
 [TempConverter.rap](https://github.com/arittASinha2003/CSEN1011/blob/main/Temperature%20Converter/CelsiusFahrenheit.rap)  
+[Factorial-Procedure.rap](https://github.com/arittASinha2003/CSEN1011/blob/main/Factorial/Factorial-Procedure.rap)
 
 ## 🔗 MODULE - 1
 [Addition.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Addition/Addition.c)  
