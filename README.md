@@ -66,6 +66,11 @@ This repo contains all programs for the course.
 [Max-Min-Array.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Graded%20Assessment%20-%208/MaxMinArray.c)  
 [Sorted-Array.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Graded%20Assessment%20-%208/SortedArray.c)
 
+## 🔗 GRADED ASSESSMENT - 9
+[TargetNumber.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Graded%20Assessment%20-%209/TargetNumber.c)  
+[Largest-Element-Array.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Graded%20Assessment%20-%209/LargestElementArray.c)  
+[nth-Largest-Element-Array.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Graded%20Assessment%20-%209/nthLargestElementArray.c)
+
 ## 🔗 SUMMATIVE ASSESSMENT - 1
 [Collatz-Seq.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Collatz%20Sequence/CollatzSeq.c)  
 [Factorial.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Factorial/Factorial.c)  
