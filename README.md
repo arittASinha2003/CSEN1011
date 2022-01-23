@@ -67,7 +67,7 @@ This repo contains all programs for the course.
 [Sorted-Array.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Graded%20Assessment%20-%208/SortedArray.c)
 
 ## 🔗 GRADED ASSESSMENT - 9
-[TargetNumber.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Graded%20Assessment%20-%209/TargetNumber.c)  
+[Target-Number.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Graded%20Assessment%20-%209/TargetNumber.c)  
 [Largest-Element-Array.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Graded%20Assessment%20-%209/LargestElementArray.c)  
 [nth-Largest-Element-Array.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Graded%20Assessment%20-%209/nthLargestElementArray.c)
 
