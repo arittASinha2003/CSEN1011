@@ -1,0 +1,9 @@
+/* Algorithm:
+1. Start
+2. Get number (n) from user
+3. Find remainder when dividing n with every number from 2 to n
+4. If remainder is 0, break and print False
+5. If number is prime, take last digit and make it the first digit and repeat process from 2
+6. Repeat process as many times as length of the number
+7. If process never breaks, print True
+8. Stop */
