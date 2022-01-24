@@ -74,9 +74,9 @@ This repo contains all programs for the course.
 [nth-Largest-Element-Array.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Graded%20Assessment%20-%209/nthLargestElementArray.c)
 
 ## 🔗 SUMMATIVE ASSESSMENT - 1
-[Collatz-Seq.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Collatz%20Sequence/CollatzSeq.c)  
-[Factorial.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Factorial/Factorial.c)  
-[Fibonacci-nth.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Fibonacci%20Sequence/Fibonacci-nth.c)
+[Collatz-Seq.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Summative%20Assessment%20-%201/CollatzSeq.c)  
+[Factorial.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Summative%20Assessment%20-%201/Factorial.c)  
+[Fibonacci-nth.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Summative%20Assessment%20-%201/Fibonacci-nth.c)
 
 ## 🔗 SUMMATIVE ASSESSMENT - 2
 [Ceiling-Number.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Summative%20Assessment%20-%202/1-CeilingNumber.c)  
