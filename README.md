@@ -80,7 +80,7 @@ This repo contains all programs for the course.
 
 ## 🔗 GRADED ASSESSMENT - 11
 [Elder.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Graded%20Assessment%20-%2011/Elder.c)  
-[ComplexNumbers.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Graded%20Assessment%20-%2011/Elder.c)
+[ComplexNumbers.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Graded%20Assessment%20-%2011/ComplexNumbers.c)
 
 ## 🔗 SUMMATIVE ASSESSMENT - 1
 [Collatz-Seq.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Summative%20Assessment%20-%201/CollatzSeq.c)  
