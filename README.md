@@ -92,3 +92,9 @@ This repo contains all programs for the course.
 [Stocks-Profit.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Summative%20Assessment%20-%202/2-StocksProfit.c)  
 [Duplicate-Element.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Summative%20Assessment%20-%202/3-DuplicateElement.c)  
 [Binary-Decimal.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Summative%20Assessment%20-%202/4-BinaryToDecimal.c)
+
+## 🔗 SUMMATIVE ASSESSMENT - 3
+[Password_Condition.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Summative%20Assessment%20-%203/1-Password_Condition.c)  
+[Books_Structure.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Summative%20Assessment%20-%203/2-Books_Structure.c)  
+[Remove_Characters.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Summative%20Assessment%20-%203/3-Remove_Characters.c)  
+[Heights_Structure.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Summative%20Assessment%20-%203/4-Heights_Structure.c)  
