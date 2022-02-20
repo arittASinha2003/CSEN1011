@@ -48,3 +48,17 @@ int main()
         printf("No match");
     }
 }
+
+/* Output:
+123 Ab
+456 Cd
+No match
+
+143 AS
+143 AS
+Same book
+
+380 as
+320 as
+Same author
+*/
