@@ -64,3 +64,11 @@ int main()
         printf("Invalid Password");
     }
 }
+
+/* Output:
+abcdef
+Invalid Password
+
+Abcde@12345
+Accepted
+*/
