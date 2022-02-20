@@ -32,3 +32,11 @@ int main()
     addDist (d1, d2);
     return 0;
 }
+
+/* Output:
+6 7 5 5
+12 0
+
+6 7 5 4
+11 11
+*/
