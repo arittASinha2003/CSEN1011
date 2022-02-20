@@ -27,3 +27,11 @@ int main()
     puts(str);
     return 0;
 }
+
+/* Output:
+AbCd@1234
+AbCd
+
+www.gitam.edu
+wwwgitamedu
+*/
