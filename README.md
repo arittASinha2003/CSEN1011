@@ -64,23 +64,23 @@ This repo contains all programs for the course.
 [Bubble-Sort.c]
 
 ## 🔗 GRADED ASSESSMENT - 8
-[Element-Search-Array.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Graded%20Assessment%20-%208/ElementSearchArray.c)  
-[Max-Min-Array.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Graded%20Assessment%20-%208/MaxMinArray.c)  
-[Sorted-Array.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Graded%20Assessment%20-%208/SortedArray.c)
+[Element-Search-Array.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Assessments/Graded%20Assessment%20-%208/ElementSearchArray.c)  
+[Max-Min-Array.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Assessments/Graded%20Assessment%20-%208/MaxMinArray.c)  
+[Sorted-Array.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Assessments/Graded%20Assessment%20-%208/SortedArray.c)
 
 ## 🔗 GRADED ASSESSMENT - 9
-[Target-Number.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Graded%20Assessment%20-%209/TargetNumber.c)  
-[Largest-Element-Array.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Graded%20Assessment%20-%209/LargestElementArray.c)  
-[nth-Largest-Element-Array.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Graded%20Assessment%20-%209/nthLargestElementArray.c)
+[Target-Number.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Assessments/Graded%20Assessment%20-%209/TargetNumber.c)  
+[Largest-Element-Array.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Assessments/Graded%20Assessment%20-%209/LargestElementArray.c)  
+[nth-Largest-Element-Array.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Assessments/Graded%20Assessment%20-%209/nthLargestElementArray.c)
 
 ## 🔗 GRADED ASSESSMENT - 10
-[Anagram.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Graded%20Assessment%20-%2010/Anagram.c)  
-[Count_Op-Var-Num.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Graded%20Assessment%20-%2010/Count_Op-Var-Num.c)  
-[Swap_Half.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Graded%20Assessment%20-%2010/Swap_Half.c)
+[Anagram.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Assessments/Graded%20Assessment%20-%2010/Anagram.c)  
+[Count_Op-Var-Num.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Assessments/Graded%20Assessment%20-%2010/Count_Op-Var-Num.c)  
+[Swap_Half.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Assessments/Graded%20Assessment%20-%2010/Swap_Half.c)
 
 ## 🔗 GRADED ASSESSMENT - 11
-[Elder.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Graded%20Assessment%20-%2011/Elder.c)  
-[ComplexNumbers.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Graded%20Assessment%20-%2011/ComplexNumbers.c)
+[Elder.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Assessments/Graded%20Assessment%20-%2011/Elder.c)  
+[ComplexNumbers.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Assessments/Graded%20Assessment%20-%2011/ComplexNumbers.c)
 
 ## 🔗 SUMMATIVE ASSESSMENT - 1
 [Collatz-Seq.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Summative%20Assessment%20-%201/CollatzSeq.c)  
