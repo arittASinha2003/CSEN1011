@@ -64,14 +64,14 @@ This repo contains all programs for the course.
 [Bubble-Sort.c]
 
 ## 🔗 GRADED ASSESSMENT - 8
-[Element-Search-Array.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Assessments/Graded%20Assessment%20-%208/ElementSearchArray.c)  
-[Max-Min-Array.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Assessments/Graded%20Assessment%20-%208/MaxMinArray.c)  
-[Sorted-Array.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Assessments/Graded%20Assessment%20-%208/SortedArray.c)
+[Element-Search-Array.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Assessments/Graded%20Assessment%20-%2008/ElementSearchArray.c)  
+[Max-Min-Array.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Assessments/Graded%20Assessment%20-%2008/MaxMinArray.c)  
+[Sorted-Array.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Assessments/Graded%20Assessment%20-%2008/SortedArray.c)
 
 ## 🔗 GRADED ASSESSMENT - 9
-[Target-Number.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Assessments/Graded%20Assessment%20-%209/TargetNumber.c)  
-[Largest-Element-Array.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Assessments/Graded%20Assessment%20-%209/LargestElementArray.c)  
-[nth-Largest-Element-Array.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Assessments/Graded%20Assessment%20-%209/nthLargestElementArray.c)
+[Target-Number.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Assessments/Graded%20Assessment%20-%2009/TargetNumber.c)  
+[Largest-Element-Array.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Assessments/Graded%20Assessment%20-%2009/LargestElementArray.c)  
+[nth-Largest-Element-Array.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Assessments/Graded%20Assessment%20-%2009/nthLargestElementArray.c)
 
 ## 🔗 GRADED ASSESSMENT - 10
 [Anagram.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Assessments/Graded%20Assessment%20-%2010/Anagram.c)  
@@ -83,18 +83,18 @@ This repo contains all programs for the course.
 [ComplexNumbers.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Assessments/Graded%20Assessment%20-%2011/ComplexNumbers.c)
 
 ## 🔗 SUMMATIVE ASSESSMENT - 1
-[Collatz-Seq.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Summative%20Assessment%20-%201/CollatzSeq.c)  
-[Factorial.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Summative%20Assessment%20-%201/Factorial.c)  
-[Fibonacci-nth.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Summative%20Assessment%20-%201/Fibonacci-nth.c)
+[Collatz-Seq.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Assessments/Summative%20Assessment%20-%2001/CollatzSeq.c)  
+[Factorial.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Assessments/Summative%20Assessment%20-%2001/Factorial.c)  
+[Fibonacci-nth.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Assessments/Summative%20Assessment%20-%2001/Fibonacci-nth.c)
 
 ## 🔗 SUMMATIVE ASSESSMENT - 2
-[Ceiling-Number.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Summative%20Assessment%20-%202/1-CeilingNumber.c)  
-[Stocks-Profit.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Summative%20Assessment%20-%202/2-StocksProfit.c)  
-[Duplicate-Element.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Summative%20Assessment%20-%202/3-DuplicateElement.c)  
-[Binary-Decimal.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Summative%20Assessment%20-%202/4-BinaryToDecimal.c)
+[Ceiling-Number.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Assessments/Summative%20Assessment%20-%2002/1-CeilingNumber.c)  
+[Stocks-Profit.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Assessments/Summative%20Assessment%20-%2002/2-StocksProfit.c)  
+[Duplicate-Element.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Assessments/Summative%20Assessment%20-%2002/3-DuplicateElement.c)  
+[Binary-Decimal.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Assessments/Summative%20Assessment%20-%2002/4-BinaryToDecimal.c)
 
 ## 🔗 SUMMATIVE ASSESSMENT - 3
-[Password_Condition.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Summative%20Assessment%20-%203/1-Password_Condition.c)  
-[Books_Structure.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Summative%20Assessment%20-%203/2-Books_Structure.c)  
-[Remove_Characters.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Summative%20Assessment%20-%203/3-Remove_Characters.c)  
-[Heights_Structure.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Summative%20Assessment%20-%203/4-Heights_Structure.c)  
+[Password_Condition.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Assessments/Summative%20Assessment%20-%2003/1-Password_Condition.c)  
+[Books_Structure.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Assessments/Summative%20Assessment%20-%2003/2-Books_Structure.c)  
+[Remove_Characters.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Assessments/Summative%20Assessment%20-%2003/3-Remove_Characters.c)  
+[Heights_Structure.c](https://github.com/arittASinha2003/CSEN1011/blob/main/Assessments/Summative%20Assessment%20-%2003/4-Heights_Structure.c)  
